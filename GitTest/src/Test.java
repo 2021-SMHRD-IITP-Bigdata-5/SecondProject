@@ -2,6 +2,7 @@
 public class Test {
 
 	public static void main(String[] args) {
+		System.out.println("Test");
 		// TODO Auto-generated method stub
 		// 1. JDK 버전
 		// 2. Tomcat 버전
